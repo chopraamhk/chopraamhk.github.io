@@ -1,5 +1,3 @@
-title: [## Welcome to Mehak's Page!]
-
 ## MEHAK CHOPRA
 
 <img align="left">
