@@ -13,7 +13,8 @@ Hi! I am Mehak.
         Indian Institute of Science, Bangalore, India](https://www.cbr.iisc.ac.in/)
 
 ### Research Interests 
- Population Genomics | Human Genetics and Functional Genomics | Evolutionary Genetics and Ancient Human Genomics
+
+Population Genetics and Genomics | Functional Genomics | Evolution | Ancient Human Genomics
 
 # Previous Education
 - **M.Sc. Bioinformatics** (2019-21)
