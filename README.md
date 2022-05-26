@@ -11,8 +11,8 @@ Hi! I am Mehak.
 
 - Project - Genome India
 
-- Where - Centre for Brain Research, 
-        Indian Institute of Science, Bangalore, India
+- Where - [Centre for Brain Research, 
+        Indian Institute of Science, Bangalore, India](https://www.cbr.iisc.ac.in/)
 
 ### Research Interests 
 Population Genomics, Human Genetics and Functional Genomics, Evolutionary Genomics and Ancient Human Genomics
@@ -25,13 +25,11 @@ Centre for Bioinformatics, Pondicherry University, India
 GGDSD College, Panjab University, India.
 
 ### WANT TO CONNECT??
-_Please email me on_ [mehakchopra@iisc.ac.in]() 
+_Please email me on_ [mehakchopra@iisc.ac.in]() **||**
 
-_or_ 
+_or_
 
-_connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk)
-
-LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
+_connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk) **||** LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
 
 ### Markdown
 
