@@ -3,9 +3,8 @@
 You can use the [editor on GitHub](https://github.com/chopraamhk/chopraamhk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## MEHAK CHOPRA
-https://chopraamhk.github.io/
 
-Hi! I am Mehak.
+Hi! I am Mehak. ![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg)
 
 - Current job - Data Analyst
 
