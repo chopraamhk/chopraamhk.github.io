@@ -25,7 +25,7 @@ Centre for Bioinformatics, Pondicherry University, India
 GGDSD College, Panjab University, India.
 
 ### WANT TO CONNECT??
-_Please email me on_ [mehakchopra@iisc.ac.in]() **||**
+_Please email me on_ [mehakchopra@iisc.ac.in]()
 
 _or_
 
