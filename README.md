@@ -6,8 +6,7 @@ You can use the [editor on GitHub](https://github.com/chopraamhk/chopraamhk.gith
 <img align="right">
 ![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg, width="10", height="10"))
 
-Hi! I am Mehak. 
-<img align="right">
+Hi! I am Mehak.
 
 - Current job - Data Analyst
 
