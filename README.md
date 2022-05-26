@@ -1,8 +1,8 @@
 title: [## Welcome to Mehak's Page!]
 
 ## MEHAK CHOPRA
-<img align="right">
-![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg, width="10", height="10"))
+<img align="left">
+![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg, =100x100))
 
 Hi! I am Mehak.
 
