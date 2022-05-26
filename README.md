@@ -1,6 +1,4 @@
-## Welcome to Mehak's Page!
-
-You can use the [editor on GitHub](https://github.com/chopraamhk/chopraamhk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+title: [## Welcome to Mehak's Page!]
 
 ## MEHAK CHOPRA
 <img align="right">
