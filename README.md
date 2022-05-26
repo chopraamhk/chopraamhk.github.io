@@ -27,7 +27,7 @@ _Please email me on_ **[mehakchopra@iisc.ac.in]()
 
 _or_
 
-_connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk) **||** LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
+_connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk) | LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
 
 ### Markdown
 
