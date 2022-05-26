@@ -41,7 +41,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[Link](url) and ![Image](src)
+[Link]([url](https://chopraamhk.github.io/)) and ![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg))
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
