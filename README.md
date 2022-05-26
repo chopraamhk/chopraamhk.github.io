@@ -31,8 +31,7 @@ _or_
 
 _connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk)
 
-
-LinkedIn - https://www.linkedin.com/in/mehak-chopra/
+LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
 
 ### Markdown
 
