@@ -7,13 +7,13 @@ Hi! I am Mehak.
 
 - Current job - Data Analyst
 
-- Project - Genome India
+- Project - [Genome India](https://www.cbr.iisc.ac.in/research/projects/genomeindia/)
 
 - Where - [Centre for Brain Research, 
         Indian Institute of Science, Bangalore, India](https://www.cbr.iisc.ac.in/)
 
 ### Research Interests 
-- Population Genomics - Human Genetics and Functional Genomics - Evolutionary Genetics and Ancient Human Genomics
+- Population Genomics | Human Genetics and Functional Genomics | Evolutionary Genetics and Ancient Human Genomics
 
 # Previous Education
 - **M.Sc. Bioinformatics** (2019-21)
