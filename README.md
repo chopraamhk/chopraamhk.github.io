@@ -1,7 +1,7 @@
 ## MEHAK CHOPRA
 
 <img align="left">
-<img src="https://your-image-url.type](![image](https://user-images.githubusercontent.com/79209653/170475116-b3dbcf05-a7ee-4fd6-9563-92f84244f274.jpg)" width="100" height="100">
+![image](https://user-images.githubusercontent.com/79209653/170475116-b3dbcf05-a7ee-4fd6-9563-92f84244f274.jpg)" width="100" height="100">
 
 Hi! I am Mehak.
 
