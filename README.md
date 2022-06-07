@@ -1,7 +1,7 @@
 ## MEHAK CHOPRA
 
 <img align="left">
-![image](https://user-images.githubusercontent.com/79209653/170475116-b3dbcf05-a7ee-4fd6-9563-92f84244f274.jpg)" width="100" height="100">
+![alt text](https://user-images.githubusercontent.com/79209653/170475116-b3dbcf05-a7ee-4fd6-9563-92f84244f274.jpg)" width="100" height="100">
 
 Hi! I am Mehak.
 
@@ -36,6 +36,5 @@ _or_
 _connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk) | LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
 
 
-[Link]([url](https://chopraamhk.github.io/)) and ![Image](![image](https://user-images.githubusercontent.com/79209653/170471887-b4ac1c38-c6dc-47af-81e5-1cf7d49fb303.jpg))
-```
+[Link](https://chopraamhk.github.io/))
 
