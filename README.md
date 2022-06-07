@@ -1,6 +1,6 @@
 ## MEHAK CHOPRA
 
-![mehak](https://user-images.githubusercontent.com/79209653/172373833-3e7e9eb8-b5d3-4045-b5ca-f8659482e6a4.jpg?size=standard#border) 
+![mehak](https://user-images.githubusercontent.com/79209653/172373833-3e7e9eb8-b5d3-4045-b5ca-f8659482e6a4.jpg?size=standard#left) 
 
 Hi! I am Mehak.
 
