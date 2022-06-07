@@ -1,6 +1,11 @@
 ## MEHAK CHOPRA
 
-![mehak](https://user-images.githubusercontent.com/79209653/172373833-3e7e9eb8-b5d3-4045-b5ca-f8659482e6a4.jpg)
+![mehak](https://user-images.githubusercontent.com/79209653/172373833-3e7e9eb8-b5d3-4045-b5ca-f8659482e6a4.jpg) {
+    float: left;
+    clear: right;
+    width: 200px;
+    height: 200px;
+}
 
 Hi! I am Mehak.
 
