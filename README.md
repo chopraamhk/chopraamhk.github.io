@@ -17,10 +17,10 @@ Population Genetics and Genomics | Functional Genomics | Evolution | Ancient Hum
 
 # Previous Education
 - **M.Sc. Bioinformatics** (2019-21)
-Centre for Bioinformatics, Pondicherry University, India
+[Centre for Bioinformatics, Pondicherry University, India](https://bicpu.edu.in/)
 
 - **B.Sc. Bioinformatics** (2016-19)
-GGDSD College, Panjab University, India.
+[GGDSD College, Panjab University, India](http://ggdsd.ac.in/)
 
 # Publications
 **The Omic Insights on Unfolding Saga of COVID-19**.                        
