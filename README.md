@@ -14,7 +14,7 @@ Hi! I am Mehak.
 
 ### Research Interests 
 
-Population Genetics and Genomics | Functional Genomics | Evolution | Ancient Human Genomics
+Population Genetics and Genomics | Functional Genomics | Evolution | Ancient Human Genomics | Data Analysis
 
 # Previous Education
 - **M.Sc. Bioinformatics** (2019-21)
