@@ -35,5 +35,5 @@ _or_
 _connect with me on twitter_ - [@chopraamhk](https://twitter.com/chopraamhk) | LinkedIn - [mehak chopra](https://www.linkedin.com/in/mehak-chopra/)
 
 
-[Link](https://chopraamhk.github.io/))
+[https://chopraamhk.github.io/](https://chopraamhk.github.io/)
 
